@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Shared Background is a Javascript script that aims to help developer to use the same background image between multiple panels. We also provide a jQuery intégration.
+Shared Background is a Javascript script that aims to help developer to use the same background image between multiple elements. We also provide a jQuery integration.
 
 ## Usage
 
@@ -24,7 +24,7 @@ Shared Background is a Javascript script that aims to help developer to use the 
 ```
 
 
-### JQuery version
+### jQuery version
 
 ```html
 <div data-shared-background="http://lorempixel.com/1024/500/nature">
