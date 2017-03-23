@@ -1,3 +1,6 @@
 # Dependency directories
 node_modules/
 .idea/
+_site/
+.sass-cache/
+Gemfile.lock

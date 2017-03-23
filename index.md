@@ -1,16 +1,15 @@
 ---
 layout: default
-title: pas du tout
 ---
-# Shared Background
 
-![Shared Background](https://i.imgur.com/CxH0YIt.png)
 
-## Introduction
+# Usage
 
-Shared Background is a Javascript script that aims to help developer to use the same background image between multiple elements. We also provide a jQuery integration.
-
-## Usage
+<ul id="shared" class="simple" data-shared-background="http://lorempixel.com/1024/500/nature">
+    <li class="panel"></li>
+    <li class="panel large"></li>
+    <li class="panel"></li>
+  </ul>
 
 ### Javascript version
 ```html
@@ -53,4 +52,13 @@ or
   $(function(){
     $('.shared').sharedBackground('http://lorempixel.com/1024/500/nature');
   });
+</script>
+```
+
+<link rel="stylesheet" type="text/css" href="{{ '/styles.css' | relative_url }}">
+<script src="{{ '/dist/shared-background.min.js' | relative_url }}"></script>
+<script>
+    var container = document.getElementById('shared');
+    var backgroundImageUrl = 'http://lorempixel.com/1024/500/nature';
+    new SharedBackground(container, backgroundImageUrl);
 </script>

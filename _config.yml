@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+repository: LucantisSwann/shared-background
+title: Shared Background
+description: Shared Background is a Javascript script allowing you to use the same background image between multiple elements.
+github: {is_project_page: 1, repository_url: 'https://github.com/LucantisSwann/shared-background'}
