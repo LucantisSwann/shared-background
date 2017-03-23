@@ -1,7 +1,3 @@
----
-layout: default
-title: pas du tout
----
 # Shared Background
 
 ![Shared Background](https://i.imgur.com/CxH0YIt.png)
