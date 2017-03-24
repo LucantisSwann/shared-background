@@ -3,8 +3,9 @@
 ![Shared Background](https://i.imgur.com/CxH0YIt.png)
 
 ## Introduction
-
-Shared Background is a Javascript script that aims to help developer to use the same background image between multiple elements. We also provide a jQuery integration.
+Shared Background is a Javascript script that aims to help developer to use the same background image between multiple elements. 
+You can [try it on CodePen](https://codepen.io/MyJobCompany/pen/BWVdKo).
+We also provide a jQuery integration.
 
 ## Usage
 
