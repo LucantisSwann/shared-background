@@ -1,5 +1,7 @@
 # Shared Background
-[![GitHub issues](https://img.shields.io/github/issues/MyJobCompany/shared-background.svg)](https://github.com/MyJobCompany/shared-background/issues)[![GitHub forks](https://img.shields.io/github/forks/MyJobCompany/shared-background.svg)](https://github.com/MyJobCompany/shared-background/network)[![GitHub stars](https://img.shields.io/github/stars/MyJobCompany/shared-background.svg)](https://github.com/MyJobCompany/shared-background/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/MyJobCompany/shared-background.svg)](https://github.com/MyJobCompany/shared-background/issues)
+[![GitHub forks](https://img.shields.io/github/forks/MyJobCompany/shared-background.svg)](https://github.com/MyJobCompany/shared-background/network)
+[![GitHub stars](https://img.shields.io/github/stars/MyJobCompany/shared-background.svg)](https://github.com/MyJobCompany/shared-background/stargazers)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/MyJobCompany/shared-background.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 
 ![Shared Background](https://i.imgur.com/CxH0YIt.png)
