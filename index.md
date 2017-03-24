@@ -59,6 +59,10 @@ or
 <script src="{{ '/dist/shared-background.min.js' | relative_url }}"></script>
 <script>
     var container = document.getElementById('shared');
-    var backgroundImageUrl = 'http://lorempixel.com/1024/500/nature';
+    var backgroundImageUrl = container.getAttribute("data-shared-background");
     new SharedBackground(container, backgroundImageUrl);
+</script>
+<script>
+  var tagline = document.getElementsByClassName("page-header")[0];
+  tagline.innerHTML = tagline.innerHTML + '<a href="https://codepen.io/MyJobCompany/pen/BWVdKo" class="btn" target="_blank">Try on CodePen</a>';
 </script>
