@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Shared Background
 ---
 
 
-# Usage
+## Usage
 
 <ul id="shared" class="simple" data-shared-background="http://lorempixel.com/1024/500/nature">
     <li class="panel"></li>
